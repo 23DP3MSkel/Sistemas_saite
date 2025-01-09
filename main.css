@@ -1,0 +1,19 @@
+header{
+text-align: center;
+font-weight: bold;
+
+}
+
+footer{
+    background-color: black;
+    color: white;
+    clear: both;
+    padding: 5px;
+}
+b {
+    font-size: 150%;
+}
+li a {
+    text-decoration: none;
+
+}
